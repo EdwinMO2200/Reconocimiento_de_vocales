@@ -12,7 +12,7 @@ Implementación en Python de un sistema básico de procesamiento digital de señ
 
 ---
 
-## 📋 Requisitos e Instalación
+## Requisitos e Instalación
 
 Asegúrate de tener Python instalado junto con las siguientes librerías científicas y de audio:
 
